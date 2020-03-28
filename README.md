@@ -1,1 +1,1 @@
-# Projeto desenvolvido para o curso [FJ22](https://www.caelum.com.br/curso-java-testes-spring-web-services-design-patterns?id=8686) da [Caelum](https://www.caelum.com.br/) sobre desenvolvimento na prática com Spring e testes
+# Projeto desenvolvido durante o curso [FJ22](https://www.caelum.com.br/curso-java-testes-spring-web-services-design-patterns?id=8686) da [Caelum](https://www.caelum.com.br/) sobre desenvolvimento na prática com Spring e testes
